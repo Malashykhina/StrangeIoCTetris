@@ -10,7 +10,7 @@ namespace game
 	{
 		public override void Execute()
 		{
-			Debug.Log ("GameOver");
+			Application.LoadLevel("NoMoreMoves");//Debug.Log ("GameOver");
 		}
 	}
 }

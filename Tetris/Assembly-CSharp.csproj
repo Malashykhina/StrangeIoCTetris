@@ -56,8 +56,8 @@
      <Compile Include="Assets\scripts\Controller\NewRoundCommand.cs" />
      <Compile Include="Assets\scripts\Controller\StartCommand.cs" />
      <Compile Include="Assets\scripts\Model\ItetrisModel.cs" />
-     <Compile Include="Assets\scripts\Model\SoundEffects.cs" />
      <Compile Include="Assets\scripts\Model\TetrisModel.cs" />
+     <Compile Include="Assets\scripts\SoundEffects.cs" />
      <Compile Include="Assets\scripts\Tetris.cs" />
      <Compile Include="Assets\scripts\TetrisContext.cs" />
      <Compile Include="Assets\scripts\View\Shape.cs" />
